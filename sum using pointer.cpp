@@ -9,6 +9,4 @@ int main(){
 	q=&b;
 	sum=*p+*q;
 	printf("the sum is %d",sum);
-	return 0;
-	
 }
